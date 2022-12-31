@@ -82,8 +82,6 @@ avatar_alt = "Placeholder text describing the default author's avatar."
 
 [extra.social]
 github = "https://github.com/johndoe"
-gitlab = "https://gitlab.com/johndoe"
-twitter = "https://twitter.com/johndoe"
 linkedin = "https://www.linkedin.com/in/john-doe-b1234567/"
 email = "john.doe@gmail.com"
 
